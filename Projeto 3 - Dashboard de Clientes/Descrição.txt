@@ -1,0 +1,21 @@
+Este painel foi desenvolvido para fornecer uma visão detalhada e interativa sobre a base de clientes de uma empresa fictícia, sem nome, e por isso nomeei apenas como 'Dashboard de Clientes'. Utilizando recursos avançados do Power BI, ele apresenta insights valiosos sobre demografia, comportamento de compra e métricas-chave, ajudando na tomada de decisões orientadas por dados.
+
+O que me motivou a desenvolver essa Dashboard foi a possibilidade de poder praticar e aprofundar minha experiência com modelagem de dados, DAX e o próprio design no PowerBI com foco na visualização clara dos dados.
+
+Uma rápida sumarização do conteúdo presente nessa Dashboard:
+
+1. Análise de Demografia
+Distribuição por faixa etária.
+Níveis de escolaridade.
+Estado civil.
+Presença de crianças ou adolescentes no núcleo familiar.
+
+2. Comportamento de Compra
+Recência das compras realizadas.
+Segmentação com base na renda.
+Análise do tempo de permanência como cliente.
+
+3. Visualizações Interativas
+Filtros e fatiadores personalizáveis.
+Drillthrough (detalhamento) para análises mais aprofundadas.
+Design pensado para clareza e objetividade.
